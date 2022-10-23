@@ -284,9 +284,10 @@ body {
   text-decoration: none;
 }
 .copyright {
-  margin-top: 1.6rem;
+  margin: 1.6rem 3rem 0 0;
   font-size: 1.6rem;
   color: #888;
+  line-height: 1.6;
 }
 .contact-1 {
   margin-bottom: 3rem;
